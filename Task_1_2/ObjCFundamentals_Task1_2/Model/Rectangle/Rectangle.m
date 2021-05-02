@@ -26,8 +26,6 @@
     return rectangle;
 }
 
-
-
 - (float)area {
     return _width * _height;
 }
